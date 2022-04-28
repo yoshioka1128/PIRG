@@ -1,0 +1,77 @@
+X-Account-Key: account2
+X-UIDL: 1491
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <koga@scphys.kyoto-u.ac.jp>
+Received: from vc04.odins.osaka-u.ac.jp (vc04.odins.osaka-u.ac.jp [133.1.192.54])
+	by mail.eng.osaka-u.ac.jp (Postfix) with ESMTP id E215677CA8
+	for <yoshioka@tp.ap.eng.osaka-u.ac.jp>; Mon, 15 Dec 2008 16:57:10 +0900 (JST)
+Received: from wiggis.ethz.ch (EHLO wiggis.ethz.ch) ([129.132.86.197])
+	by vc04.odins.osaka-u.ac.jp (MOS 3.8.6-GA FastPath queued)
+	with ESMTP id BBD25984;
+	Mon, 15 Dec 2008 16:57:08 +0900 (JST)
+Received: from localhost (mailscanner.ethz.ch [192.33.98.100])
+	by wiggis.ethz.ch (Postfix) with ESMTP id 1F80E4233
+	for <yoshioka@tp.ap.eng.osaka-u.ac.jp>; Mon, 15 Dec 2008 08:57:01 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at mailscanner.ethz.ch
+Received: from wiggis.ethz.ch ([129.132.86.197])
+	by localhost (mailscanner.ethz.ch [192.33.98.100]) (amavisd-new, port 10024)
+	with LMTP id oT2FuyZDBXD0 for <yoshioka@tp.ap.eng.osaka-u.ac.jp>;
+	Mon, 15 Dec 2008 08:57:00 +0100 (CET)
+Message-ID: <49460DC5.3030102@scphys.kyoto-u.ac.jp>
+Date: Mon, 15 Dec 2008 08:56:53 +0100
+From: Akihisa Koga <koga@scphys.kyoto-u.ac.jp>
+User-Agent: Thunderbird 2.0.0.18 (Windows/20081105)
+MIME-Version: 1.0
+To: Takuya Yoshioka <yoshioka@tp.ap.eng.osaka-u.ac.jp>
+Subject: =?ISO-2022-JP?B?KBskQjdvTD4kSiQ3GyhCKQ==?=
+Content-Type: text/plain; charset=ISO-2022-JP
+Content-Transfer-Encoding: 7bit
+X-Junkmail-Whitelist: YES (by domain whitelist at vc04.odins.osaka-u.ac.jp)
+
+吉岡さん
+
+f2-sumire.f
+
+ですが、最初に書かれてある num は、siteの半分を意味します。
+つまり、Hubbard 16サイトを扱うときは、num =8 で計算します。
+
+状態数は 165636900 必要です。ちなみにこれは、粒子数の対称性しか使ってい
+ません。並進対称性を考えれば、もっと小さなサイズで計算ができ、時間も格段
+に短くなりますが、ここでは考慮していません。
+
+なので、このプログラムは、16サイトのcheckerboard も三角格子も一次元鎖も
+問題なく計算できます。
+
+模型については、subroutine init_hの最初に記述します。
+
+必要な情報は
+ホッピングの情報 datint(2,n_int)
+ホッピングの数   n_int
+
+ホッピングの情報には、ホッピングの始点、終点を入れます。
+つまり
+
+1-2-3-4  の系(周期境界)であれば
+
+n_int = 4
+datint/ 1,2, 2,3, 3,4, 4,1/
+
+となります。
+
+このプログラムでは、double occupancy がコメントアウトしてあるので、基底
+エネルギーのみの計算です。double occupancy を計算するときには、基底状態
+についても計算が必要なので、もう少し時間がかかります。
+
+わからないことがあれば、また聞いてください。
+
+古賀
+-- 
+---------------------------------------------------
+ Akihisa Koga
+ Institute for Theoretical Physics
+ ETH-Hoenggerberg, CH-8093 Zurich, Switzerland
+ Phone : +41-44-633-7826
+---------------------------------------------------
+

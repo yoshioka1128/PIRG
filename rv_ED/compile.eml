@@ -1,0 +1,145 @@
+X-Account-Key: account2
+X-UIDL: 1532
+X-Mozilla-Status: 0003
+X-Mozilla-Status2: 10000000
+X-Mozilla-Keys: $label1                                                                         
+Return-Path: <koga@scphys.kyoto-u.ac.jp>
+Received: from vc04.odins.osaka-u.ac.jp (vc04.odins.osaka-u.ac.jp [133.1.192.54])
+	by mail.eng.osaka-u.ac.jp (Postfix) with ESMTP id 8A6BF77BC8
+	for <yoshioka@tp.ap.eng.osaka-u.ac.jp>; Thu, 18 Dec 2008 02:27:50 +0900 (JST)
+Received: from wiggis.ethz.ch (EHLO wiggis.ethz.ch) ([129.132.86.197])
+	by vc04.odins.osaka-u.ac.jp (MOS 3.8.6-GA FastPath queued)
+	with ESMTP id BBP96974;
+	Thu, 18 Dec 2008 02:27:42 +0900 (JST)
+Received: from localhost (mailscanner.ethz.ch [192.33.98.100])
+	by wiggis.ethz.ch (Postfix) with ESMTP id 6DD67423B
+	for <yoshioka@tp.ap.eng.osaka-u.ac.jp>; Wed, 17 Dec 2008 18:27:11 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at mailscanner.ethz.ch
+Received: from wiggis.ethz.ch ([129.132.86.197])
+	by localhost (mailscanner.ethz.ch [192.33.98.100]) (amavisd-new, port 10024)
+	with LMTP id hDiQkNmYo4On for <yoshioka@tp.ap.eng.osaka-u.ac.jp>;
+	Wed, 17 Dec 2008 18:27:11 +0100 (CET)
+Message-ID: <4949366B.4050507@scphys.kyoto-u.ac.jp>
+Date: Wed, 17 Dec 2008 18:27:07 +0100
+From: Akihisa Koga <koga@scphys.kyoto-u.ac.jp>
+User-Agent: Thunderbird 2.0.0.18 (Windows/20081105)
+MIME-Version: 1.0
+To: Takuya Yoshioka <yoshioka@tp.ap.eng.osaka-u.ac.jp>
+Subject: =?ISO-2022-JP?B?KBskQjdvTD4kSiQ3GyhCKQ==?=
+Content-Type: multipart/mixed;
+ boundary="------------010003090000010302040106"
+X-Junkmail-Whitelist: YES (by domain whitelist at vc04.odins.osaka-u.ac.jp)
+
+This is a multi-part message in MIME format.
+--------------010003090000010302040106
+Content-Type: text/plain; charset=ISO-2022-JP
+Content-Transfer-Encoding: 7bit
+
+吉岡さん
+
+ちゃんと動くプログラムです。
+
+プログラムの説明は前といっしょです。
+
+xf90 -64 -Oss f2-sumire.f
+
+でコンパイルできます。
+
+よろしゅ
+
+古賀
+-- 
+---------------------------------------------------
+ Akihisa Koga
+ Institute for Theoretical Physics
+ ETH-Hoenggerberg, CH-8093 Zurich, Switzerland
+ Phone : +41-44-633-7826
+---------------------------------------------------
+
+--------------010003090000010302040106
+Content-Type: application/x-gzip;
+ name="ED.tar.gz"
+Content-Transfer-Encoding: base64
+Content-Disposition: inline;
+ filename="ED.tar.gz"
+
+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
+--------------010003090000010302040106--
+
+

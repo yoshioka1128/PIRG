@@ -1,0 +1,691 @@
+吉岡さん
+[2008/10/09 17:43:04] Akihisa Kogaの発言: 私が思っていた場所での
+[2008/10/09 17:43:09] Akihisa Kogaの発言: 並列化は
+[2008/10/09 17:43:16] Akihisa Kogaの発言: あまり成功しませんでした
+[2008/10/09 17:43:22] Akihisa Kogaの発言: 結局のところ
+[2008/10/09 17:43:31] Akihisa Kogaの発言: 吉岡さんの作ったプログラムで十分で
+[2008/10/09 17:43:36] Akihisa Kogaの発言: あとは
+[2008/10/09 17:43:37] Akihisa Kogaの発言: L
+[2008/10/09 17:43:44] Akihisa Kogaの発言: に対する並列化のみで
+[2008/10/09 17:43:49] Akihisa Kogaの発言: いいような感じです
+[2008/10/09 17:43:59] Akihisa Kogaの発言: もし私がプログラムを書くならそうします
+[2008/10/09 17:44:51] Akihisa Kogaの発言: あまりMPIで書くメリットがなさそうです
+[2008/10/09 17:46:08] Akihisa Kogaの発言: ちなみに 論文はLetterに投稿しましたか?
+[2008/10/11 11:57:24] yoshioka94の発言: 並列化の検討ありがとうございました。
+[2008/10/11 11:57:43] yoshioka94の発言: 論文のほうはまだ投稿していないです。
+[2008/10/11 11:58:40] yoshioka94の発言: 川上先生と昨日会ったのですが、めちゃくちゃ忙しそうでした。。
+[2008/11/02 14:54:11] Akihisa Kogaの発言: 吉岡さん
+[2008/11/02 14:54:13] Akihisa Kogaの発言: 古賀です。
+[2008/11/02 14:54:20] Akihisa Kogaの発言: 川上先生からのメール読みましたが、
+[2008/11/02 14:54:47] Akihisa Kogaの発言: まだカバーレターは出していなかったのでしょうか。
+[2008/11/02 14:55:04] Akihisa Kogaの発言: まだであれば、レフリー対応用に書き直したいです
+[2008/11/02 14:56:14] yoshioka94の発言: はい。まだ渡してないです。
+[2008/11/02 14:56:36] Akihisa Kogaの発言: 了解
+[2008/11/02 14:56:47] Akihisa Kogaの発言: 最新版をいただければ幸いです
+[2008/11/02 14:59:14] yoshioka94の発言: 今メールで送信しました。
+[2008/11/02 14:59:20] Akihisa Kogaの発言: ありがとう
+[2008/11/02 14:59:27] Akihisa Kogaの発言: 本文の法もみておきます
+[2008/11/02 14:59:39] yoshioka94の発言: ちなみに、福山先生の論文は３つありました。
+[2008/11/02 15:01:09] yoshioka94の発言: kappa関連の　先生が言っていた木野、福山の論文で
+[2008/11/02 15:02:16] yoshioka94の発言: 同じ時期の論文ですが3つ全部引用するのは変ですか？
+[2008/11/02 15:03:46] Akihisa Kogaの発言: 引用回数とか見てみたらどうでしょうか
+[2008/11/02 15:03:55] Akihisa Kogaの発言: みんなが引用しているかどうか
+[2008/11/02 16:17:20] Akihisa Kogaの発言: 吉岡さん
+[2008/11/02 16:17:21] Akihisa Kogaの発言: もしかして
+[2008/11/02 16:17:34] Akihisa Kogaの発言: カバーレターって私初めて読みますか?
+[2008/11/02 16:17:57] Akihisa Kogaの発言: 見覚えのない気がしますが、似たような文章を見た気もします
+[2008/11/02 16:18:30] yoshioka94の発言: 一度見てもらいましたが、確認します。
+[2008/11/02 16:18:35] Akihisa Kogaの発言: いえいえ
+[2008/11/02 16:18:41] Akihisa Kogaの発言: 確認する必要はないです
+[2008/11/02 16:18:53] Akihisa Kogaの発言: 二回目かもしれませんが、新鮮な感じです
+[2008/11/02 16:19:24] yoshioka94の発言: 見てもらうのは二回目です。
+[2008/11/02 16:19:35] Akihisa Kogaの発言: 了解です
+[2008/11/02 16:24:03] Akihisa Kogaの発言: 吉岡さん
+[2008/11/02 16:24:05] Akihisa Kogaの発言: 古賀です
+[2008/11/02 16:24:13] yoshioka94の発言: はい。
+[2008/11/02 16:24:19] Akihisa Kogaの発言: 図6のフォントは何を使っていますか?
+[2008/11/02 16:24:24] Akihisa Kogaの発言: 文字化けしています。
+[2008/11/02 16:24:39] Akihisa Kogaの発言: 日本語のフォントではありませんか?
+[2008/11/02 16:24:51] yoshioka94の発言: pwerpoint の英語ですが
+[2008/11/02 16:25:08] yoshioka94の発言: 確かに先生のPdfでは化けてますね。
+[2008/11/02 16:25:14] Akihisa Kogaの発言: はい
+[2008/11/02 16:25:22] Akihisa Kogaの発言: Uc1  7.7tの間の
+[2008/11/02 16:25:28] Akihisa Kogaの発言: 文字のフォントです
+[2008/11/02 16:25:33] Akihisa Kogaの発言: 確認願います
+[2008/11/02 16:25:50] yoshioka94の発言: わかりました。直しておきます。
+[2008/11/02 16:26:09] Akihisa Kogaの発言: 全角の記号から持ってきているのではないかと思います
+[2008/11/02 16:27:22] yoshioka94の発言: 全角の記号～が化けていました。
+[2008/11/02 16:27:36] Akihisa Kogaの発言: やはり
+[2008/11/02 16:27:44] Akihisa Kogaの発言: 小文字の~
+[2008/11/02 16:27:51] Akihisa Kogaの発言: を使ってみてはどうでしょうか
+[2008/11/02 16:29:17] yoshioka94の発言: 自分は「から」と打って変換してました。
+[2008/11/02 16:29:44] yoshioka94の発言: 小文字で～を出せるのでしょうか？
+[2008/11/02 16:29:49] Akihisa Kogaの発言: はい
+[2008/11/02 16:29:58] Akihisa Kogaの発言: キーボード右上の
+[2008/11/02 16:30:02] Akihisa Kogaの発言: へ
+[2008/11/02 16:30:05] Akihisa Kogaの発言: の上
+[2008/11/02 16:30:11] Akihisa Kogaの発言: Shift + ^
+[2008/11/02 16:30:16] Akihisa Kogaの発言: ででるはずです
+[2008/11/02 16:30:19] Akihisa Kogaの発言: フォントによっては
+[2008/11/02 16:30:25] Akihisa Kogaの発言: 上にでるので
+[2008/11/02 16:30:31] Akihisa Kogaの発言: 一文字にして
+[2008/11/02 16:30:44] Akihisa Kogaの発言: powerpoint上でずらせば問題ないと思います
+[2008/11/02 16:31:27] yoshioka94の発言: わかりました直しておきます。ありがとうございます。
+[2008/11/02 17:01:46] Akihisa Kogaの発言: あと
+[2008/11/02 17:02:04] Akihisa Kogaの発言: 川上先生の質問の 120AFIについては調べましたか
+[2008/11/02 17:02:53] yoshioka94の発言: ｖｍｃ渡辺さんが使っていたのですが、それ以外ではあまり見ないので
+[2008/11/02 17:03:15] yoshioka94の発言: Neelに直そうかと思います。
+[2008/11/02 17:03:22] Akihisa Kogaの発言: 了解
+[2008/11/02 17:03:27] Akihisa Kogaの発言: 川上先生は
+[2008/11/02 17:03:43] Akihisa Kogaの発言: 今田先生、渡辺さん、水崎さんを避けるように言っていますが
+[2008/11/02 17:03:47] Akihisa Kogaの発言: どうせ避けるなら
+[2008/11/02 17:04:11] Akihisa Kogaの発言: 他の相図を求めた人も避けるべきだと思うのですが
+[2008/11/02 17:04:14] Akihisa Kogaの発言: どう思いますか
+[2008/11/02 17:04:41] Akihisa Kogaの発言: それとも
+[2008/11/02 17:04:51] Akihisa Kogaの発言: PIRGの競合者として
+[2008/11/02 17:04:57] Akihisa Kogaの発言: 書いたほうがいいのかな
+[2008/11/02 17:06:01] Akihisa Kogaの発言: あまり多すぎてもいけないと思いますが、偏っても編かもしれません
+[2008/11/02 17:06:16] yoshioka94の発言: そうですね。
+[2008/11/02 17:07:45] yoshioka94の発言: DMFTのKyun　ｖｍｃの渡辺　とか
+[2008/11/02 17:08:33] yoshioka94の発言: 同じ相図VCA で同じ相図の人もいましたが。
+[2008/11/02 17:08:40] Akihisa Kogaの発言: そうなんです
+[2008/11/02 17:08:47] Akihisa Kogaの発言: その人にいくといいのか、悪いのか
+[2008/11/02 17:08:55] Akihisa Kogaの発言: わかりません
+[2008/11/02 17:09:07] Akihisa Kogaの発言: competitorかどうかすらわかりません
+[2008/11/02 17:09:31] yoshioka94の発言: 全然知らない人なんですね？
+[2008/11/02 17:09:37] Akihisa Kogaの発言: だれだっけ
+[2008/11/02 17:10:06] yoshioka94の発言: P. Sahebsara and D. Senechal
+[2008/11/02 17:10:21] Akihisa Kogaの発言: どちらもあったことはありません
+[2008/11/02 17:10:29] Akihisa Kogaの発言: Senechalは名前だけ知って今
+[2008/11/02 17:12:02] Akihisa Kogaの発言: どうしましょうか
+[2008/11/02 17:12:08] yoshioka94の発言: 別の相図を出した人をcompetiterにする場合、
+[2008/11/02 17:12:46] yoshioka94の発言: 今田研の3人共書けなくなりますかね？数が多くて。
+[2008/11/02 17:12:59] Akihisa Kogaの発言: そうね
+[2008/11/02 17:13:00] Akihisa Kogaの発言: じゃ
+[2008/11/02 17:13:13] Akihisa Kogaの発言: テクニカルな感じでかきますね
+[2008/11/02 17:13:34] yoshioka94の発言: PIRGの競合で行きたいです。
+[2008/11/02 17:14:27] yoshioka94の発言: お願いします。
+[2008/11/02 17:15:08] Akihisa Kogaの発言: 了解しました
+[2008/11/02 17:18:51] Akihisa Kogaの発言: Dear Sir/Madame, 
+
+please find appended the manuscript on "Quantum Phase Transitions in the Hubbard Model on Triangular Lattice" by by T. Yoshioka, A. Koga, and N. Kawakami, which we would like to submit for publication in Physical Review Letters.
+
+The study of geometrical frustration in strongly correlated electron systems have in recent year gained a lot of momentum due to applications in various important material classes. In our paper, we address a problem which had led to some controversy recently. The question is whether the nonmagnetic insulating state is indeed realized in strongly correlated electron systems on triangular lattice.
+
+Our paper presents a detailed path integral renormalization group study with an improved iteration scheme proposed in our previos paper, which allows us to obtain the ground-state phase diagram precisely. It clearly shows that the nonmagnetic insulating state is indeed stabilized between the metallic state and antiferromagnetic insulating state with 120 degrees configuration. Our results shed light on the controversial arguments on the nature of the quantum phase transitions. Furthermore, our results explains the fact that the organic compound $\kappa$-(BEDT-TTF)$_2$Cu$_2$(CN)$_3$ is located in the nonmagnetic insulating phase close to the metal-insulator transition point. By these reasons, we wish to submit this article for publication in Phys. Rev. Lett.
+
+As potential referees we would like to suggest:
+
+Dieter Vollhardt
+Hidetoshi Fukuyama
+Masao Ogata
+
+We would like to avoid M. Imada, S. Watanabe, and T. Mizusaki since they are direct competitors for the numerical techniques and our paper is in conflict with their previous conclusions.
+
+We are looking forward to hearing from you.
+
+Sincerely yours,
+
+Takuya Yoshioka
+[2008/11/02 17:18:57] Akihisa Kogaの発言: 吉岡さん
+[2008/11/02 17:19:05] Akihisa Kogaの発言: こんなのでどうでしょうか
+[2008/11/02 17:26:39] yoshioka94の発言: 先ほどの反強磁性をやめてantiferromagnetic insulating state with 120 degrees configuration-> ordered insulating state with 120 degree spin configurationでいいですか？
+[2008/11/02 17:31:15] Akihisa Kogaの発言: いいけど
+[2008/11/02 17:31:19] Akihisa Kogaの発言: antiferr
+[2008/11/02 17:31:24] Akihisa Kogaの発言: だけ落とすのでは
+[2008/11/02 17:31:30] Akihisa Kogaの発言: だめなの?
+[2008/11/02 17:31:35] Akihisa Kogaの発言: 話は変わりますが、
+[2008/11/02 17:31:38] Akihisa Kogaの発言: 今
+[2008/11/02 17:31:42] Akihisa Kogaの発言: Sigrist-san
+[2008/11/02 17:31:43] Akihisa Kogaの発言: に
+[2008/11/02 17:31:52] Akihisa Kogaの発言: アブストラクトを見ていただきました
+[2008/11/02 17:31:59] Akihisa Kogaの発言: 日曜日なのに...
+[2008/11/02 17:32:05] Akihisa Kogaの発言: 私も、あなたもですが
+[2008/11/02 17:32:15] Akihisa Kogaの発言: 四行目
+[2008/11/02 17:32:35] Akihisa Kogaの発言: a first-order phase transition to the nonmagnetic insulating state
+[2008/11/02 17:32:39] Akihisa Kogaの発言: を
+[2008/11/02 17:32:49] yoshioka94の発言: ありがたいです。
+[2008/11/02 17:33:00] Akihisa Kogaの発言: a first-order phase transition to a nonmagnetic insulating state
+[2008/11/02 17:33:08] Akihisa Kogaの発言: 初めてだからですね
+[2008/11/02 17:33:09] Akihisa Kogaの発言: それから
+[2008/11/02 17:33:23] Akihisa Kogaの発言: つぎの行
+[2008/11/02 17:33:30] Akihisa Kogaの発言: an antiferromagnetic insulating ...
+[2008/11/02 17:33:37] Akihisa Kogaの発言: これも初めて
+[2008/11/02 17:33:39] Akihisa Kogaの発言: なので
+[2008/11/02 17:33:40] Akihisa Kogaの発言: だとおもいます
+[2008/11/02 17:34:03] Akihisa Kogaの発言: the nature of the quantum phase transitions
+[2008/11/02 17:34:05] Akihisa Kogaの発言: を
+[2008/11/02 17:34:20] Akihisa Kogaの発言: the nature of the previously proposed quantum phase transitions
+[2008/11/02 17:34:28] Akihisa Kogaの発言: だそうです
+[2008/11/02 17:35:03] Akihisa Kogaの発言: この結果についてのpptはありますか? もらったかな?
+[2008/11/02 17:35:15] Akihisa Kogaの発言: Sigrist-sanに紹介したいと思います。
+[2008/11/02 17:35:25] Akihisa Kogaの発言: アブストを読んでもらったしね
+[2008/11/02 17:44:45] yoshioka94の発言: 今メールで送信しました。よろしくお願いします。
+[2008/11/02 17:45:28] yoshioka94の発言: antiferromagnetic insulating state with 120 degrees configuration->magnetic insulating state with 120 degrees configurationにしときます。
+[2008/11/02 17:46:11] Akihisa Kogaの発言: 120MI?
+[2008/11/02 17:46:17] Akihisa Kogaの発言: 略語はどうしますか
+[2008/11/02 17:46:25] Akihisa Kogaの発言: メールありがとう
+[2008/11/02 17:47:58] yoshioka94の発言: 120Neel ha
+[2008/11/02 17:48:06] yoshioka94の発言: 変ですかね？
+[2008/11/02 17:48:27] Akihisa Kogaの発言: Neel は略する前にはどこにはいるの?
+[2008/11/02 17:48:39] Akihisa Kogaの発言: Neel state with 120 degrees configuration
+[2008/11/02 17:48:43] Akihisa Kogaの発言: ですか?
+[2008/11/02 17:50:05] yoshioka94の発言: 120 Neel ordered magnetic state はどうでしょうか？
+[2008/11/02 17:50:34] Akihisa Kogaの発言: 他の論文でどのように書かれてあるかを参考にしてください
+[2008/11/02 17:50:47] Akihisa Kogaの発言: そして、その略語を使いましょう
+[2008/11/02 17:55:01] yoshioka94の発言: よく調べてみると。Heisenberg modelでは120 Neel
+[2008/11/02 18:06:00] yoshioka94の発言: Hubbard model だと少ない（3つ）ですが略号を使うときはAFIとか120AFIになってました。
+[2008/11/02 18:06:29] Akihisa Kogaの発言: 略する前は?
+[2008/11/02 18:12:45] yoshioka94の発言: a state with an AF order of 120 degree spin structure,  an antiferromagnetic insulating state with 120 degree spin structure, an antiferromagnetic insulator with 120 Neel order の３つです。
+[2008/11/02 18:13:48] Akihisa Kogaの発言: どれでいきますか
+[2008/11/02 18:14:15] Akihisa Kogaの発言: かえなくてもよさそう?
+[2008/11/02 18:14:27] yoshioka94の発言: Neelがついているので3つ目がいいと思います。
+[2008/11/02 18:14:49] Akihisa Kogaの発言: じゃそれでいきましょう
+[2008/11/02 18:15:34] yoshioka94の発言: ではそのように直しておきます。
+[2008/11/02 18:16:07] yoshioka94の発言: それから、福山先生の３つの論文は引用数183, 79, 37でした。
+[2008/11/02 18:16:38] yoshioka94の発言: 問題無ければ、多い2つを引いておこうと思います
+[2008/11/02 18:17:20] yoshioka94の発言: あと、運動量分布のk->qに直しておきます。
+[2008/11/02 18:17:46] yoshioka94の発言: 本文ではそのほうが自然なので。
+[2008/11/02 18:33:22] Akihisa Kogaの発言: 論文を読みました
+[2008/11/02 18:33:30] Akihisa Kogaの発言: 気になる点がありますので列挙します
+[2008/11/02 18:33:44] yoshioka94の発言: おねがいします。
+[2008/11/02 18:33:46] Akihisa Kogaの発言: 1page左 下から3行目
+[2008/11/02 18:33:55] Akihisa Kogaの発言: sheds は過去形の方がいい?
+[2008/11/02 18:34:11] Akihisa Kogaの発言: 右　上から10行目
+[2008/11/02 18:34:23] Akihisa Kogaの発言: due to the problem of numerical accuracy
+[2008/11/02 18:34:25] Akihisa Kogaの発言: は
+[2008/11/02 18:34:38] Akihisa Kogaの発言: due to the problem of its numerical accuracy
+[2008/11/02 18:34:41] Akihisa Kogaの発言: のほうがいい?
+[2008/11/02 18:35:03] Akihisa Kogaの発言: 2page 左　上から四行目
+[2008/11/02 18:35:09] Akihisa Kogaの発言: より
+[2008/11/02 18:35:09] Akihisa Kogaの発言: model (1)
+[2008/11/02 18:35:14] Akihisa Kogaの発言: model eq. (1)
+[2008/11/02 18:35:19] Akihisa Kogaの発言: のほうがいい?
+[2008/11/02 18:36:09] Akihisa Kogaの発言: Fig. 3のcaption
+[2008/11/02 18:36:15] Akihisa Kogaの発言: の最後
+[2008/11/02 18:36:27] Akihisa Kogaの発言: nonmagnetic insulatorはNMIのほうがいい?
+[2008/11/02 18:36:52] Akihisa Kogaの発言: 3page 左上から三行目
+[2008/11/02 18:36:58] Akihisa Kogaの発言: at the Fermi level
+[2008/11/02 18:36:59] Akihisa Kogaの発言: より
+[2008/11/02 18:37:05] Akihisa Kogaの発言: at the Fermi surface
+[2008/11/02 18:37:07] Akihisa Kogaの発言: のほうがいい?
+[2008/11/02 18:37:27] Akihisa Kogaの発言: 左上から13行目
+[2008/11/02 18:37:34] Akihisa Kogaの発言: は
+[2008/11/02 18:37:34] Akihisa Kogaの発言: at the Mott transition point
+[2008/11/02 18:37:49] Akihisa Kogaの発言: 前の文でも触れているから、ない方がいい?
+[2008/11/02 18:38:11] Akihisa Kogaの発言: 4page左下から
+[2008/11/02 18:38:19] Akihisa Kogaの発言: 13行目
+[2008/11/02 18:38:25] Akihisa Kogaの発言: ref.[7]
+[2008/11/02 18:38:26] Akihisa Kogaの発言: は
+[2008/11/02 18:38:31] Akihisa Kogaの発言: 大文字 Ref. [7]
+[2008/11/02 18:38:34] Akihisa Kogaの発言: かな?
+[2008/11/02 18:39:09] Akihisa Kogaの発言: Reference [20] はすでにでたっけ?
+[2008/11/02 18:39:34] Akihisa Kogaの発言: という感じです。
+[2008/11/02 18:41:16] Akihisa Kogaの発言: カバーレターはファイルでおくりますね
+[2008/11/02 18:41:25] yoshioka94の発言: ありがとうございます。確認して直しておきます。
+[2008/11/02 18:41:39] yoshioka94の発言: はい。お願いします。
+[2008/11/02 18:42:42] Akihisa Kogaの発言: 略語はなおしておいてください
+[2008/11/02 18:42:59] Akihisa Kogaの発言: 直したら、もう一度みせてください
+[2008/11/02 18:43:05] Akihisa Kogaの発言: もう一度チェックします
+[2008/11/02 18:43:22] Akihisa Kogaの発言: PACSなどもちぇっくしておきましょう
+[2008/11/02 18:46:32] yoshioka94の発言: では、チェックの作業に入ります。
+[2008/11/02 18:46:48] Akihisa Kogaの発言: もう直し切りましたか
+[2008/11/02 18:46:55] Akihisa Kogaの発言: わたしもチェックするので
+[2008/11/02 18:47:03] Akihisa Kogaの発言: カバーレターと論文の両方を送ってくださいね
+[2008/11/02 18:47:19] yoshioka94の発言: まだです。
+[2008/11/02 18:47:28] Akihisa Kogaの発言: では
+[2008/11/02 18:47:30] Akihisa Kogaの発言: まっています
+[2008/11/02 18:47:51] Akihisa Kogaの発言: よろしく
+[2008/11/02 20:48:19] yoshioka94の発言: 論文をメールで送りました。よろしくお願いします。
+[2008/11/02 20:48:40] Akihisa Kogaの発言: ありがとう
+[2008/11/02 20:49:10] Akihisa Kogaの発言: もしよかったら
+[2008/11/02 20:49:15] Akihisa Kogaの発言: すべての　図も
+[2008/11/02 20:49:18] Akihisa Kogaの発言: 送ってもらえませんか
+[2008/11/02 20:49:49] yoshioka94の発言: わかりました。ではセットで送ります。
+[2008/11/02 20:56:13] yoshioka94の発言: 今送りました。
+[2008/11/02 20:56:25] Akihisa Kogaの発言: ありがとう
+[2008/11/05 21:53:08] Akihisa Kogaの発言: 吉岡さん
+[2008/11/05 21:53:13] Akihisa Kogaの発言: 川上先生から
+[2008/11/05 21:53:18] Akihisa Kogaの発言: メールあったと思うのですが
+[2008/11/05 21:53:22] Akihisa Kogaの発言: すでに投稿されましたか
+[2008/11/05 21:56:57] yoshioka94の発言: はい。投稿しちゃいました。
+[2008/11/05 21:57:03] Akihisa Kogaの発言: 了解です。
+[2008/11/05 21:57:27] Akihisa Kogaの発言: レフリーから返事が来たらまた教えてくださいね
+[2008/11/05 21:57:41] Akihisa Kogaの発言: 論文番号はわかりましたか
+[2008/11/05 21:59:14] yoshioka94の発言: ＬＹ10984　でレフェリーに送ったと書かれてます。
+[2008/11/05 21:59:27] Akihisa Kogaの発言: 了解です。
+[2008/11/05 21:59:32] Akihisa Kogaの発言: 通るといいですね
+[2008/11/05 21:59:36] Akihisa Kogaの発言: 祈ってます
+[2008/11/05 21:59:40] Akihisa Kogaの発言: では
+[2008/11/17 4:31:38] Akihisa Kogaの発言: 吉岡さん
+[2008/11/17 4:31:41] Akihisa Kogaの発言: 古賀です。
+[2008/11/17 4:31:53] Akihisa Kogaの発言: チェッカーボードの計算の発表OHP
+[2008/11/17 4:31:59] Akihisa Kogaの発言: ってもっていますか
+[2008/11/17 4:32:10] Akihisa Kogaの発言: 吉岡さんの研究を紹介しようと思いまして
+[2008/11/17 4:32:19] yoshioka94の発言: ありがとうございます。
+[2008/11/17 4:32:36] Akihisa Kogaの発言: 英語があればそれでもいいし
+[2008/11/17 4:32:40] Akihisa Kogaの発言: 日本語でもいいし
+[2008/11/17 4:32:45] Akihisa Kogaの発言: pptをいただければ幸いです
+[2008/11/17 4:33:17] yoshioka94の発言: わかりました、ちょっと探してみます。
+[2008/11/17 4:38:48] Akihisa Kogaの発言: よろしくお願いいたします。
+[2008/11/17 4:54:06] yoshioka94の発言: 送信しておきました。
+[2008/11/17 4:56:41] Akihisa Kogaの発言: ありがとうございます
+[2008/11/24 23:16:45] Akihisa Kogaの発言: 吉岡さん
+[2008/11/24 23:16:48] Akihisa Kogaの発言: 古賀です。
+[2008/11/24 23:17:07] Akihisa Kogaの発言: 今田先生からのコメント読みましたが
+[2008/11/24 23:17:14] Akihisa Kogaの発言: サイズ依存に関しては
+[2008/11/24 23:17:23] Akihisa Kogaの発言: 現在、もしくは過去に計算されましたか?
+[2008/11/24 23:17:28] Akihisa Kogaの発言: 比較できるかどうか
+[2008/11/24 23:17:31] Akihisa Kogaの発言: 知りたいです
+[2008/11/24 23:37:37] yoshioka94の発言: 8×8サイトU=6で計算していた結果がありました。
+[2008/11/24 23:37:59] Akihisa Kogaの発言: でどうでした
+[2008/11/24 23:38:20] yoshioka94の発言: この二重占有率がFig.5と比較できるのですが
+[2008/11/24 23:38:34] Akihisa Kogaの発言: そうそう
+[2008/11/24 23:38:57] yoshioka94の発言: 自分の計算では0.18程度で今田研は0.13くらいです
+[2008/11/24 23:39:16] Akihisa Kogaの発言: ちなみに
+[2008/11/24 23:39:28] Akihisa Kogaの発言: 吉岡さんの解で
+[2008/11/24 23:39:46] Akihisa Kogaの発言: Metal と NMI の両方の結果ありますか
+[2008/11/24 23:39:48] Akihisa Kogaの発言: U=6
+[2008/11/24 23:39:51] Akihisa Kogaの発言: 8x8
+[2008/11/24 23:39:53] Akihisa Kogaの発言: サイト
+[2008/11/24 23:42:25] yoshioka94の発言: 2つの解があるのですが、二重占有率を見る限りどちらも金属的です
+[2008/11/24 23:43:00] Akihisa Kogaの発言: エネルギーがあれば
+[2008/11/24 23:43:04] Akihisa Kogaの発言: 比較できるのにね
+[2008/11/24 23:43:07] yoshioka94の発言: 低エネルギーの方が0.18
+[2008/11/24 23:43:15] yoshioka94の発言: そうですね。
+[2008/11/24 23:43:33] Akihisa Kogaの発言: 10x10
+[2008/11/24 23:43:35] Akihisa Kogaの発言: 12x12は
+[2008/11/24 23:43:39] Akihisa Kogaの発言: どの程度しんどいですか
+[2008/11/24 23:43:52] Akihisa Kogaの発言: U=6のみで十分だと思いますが
+[2008/11/24 23:44:03] Akihisa Kogaの発言: もしくは
+[2008/11/24 23:44:18] Akihisa Kogaの発言: U=6 8x8のNMIの解を見つけて
+[2008/11/24 23:44:25] Akihisa Kogaの発言: そのDをみる
+[2008/11/24 23:44:42] Akihisa Kogaの発言: エネルギー的にどちらが安定化示す
+[2008/11/24 23:45:36] Akihisa Kogaの発言: でも、今田グループはサイズ依存性を正確に見積もらないと許してくれそうにないかもね
+[2008/11/24 23:45:57] Akihisa Kogaの発言: 10x10, 12x12のしんどさによるかも
+[2008/11/24 23:46:14] Akihisa Kogaの発言: ちなみに 120AFI に関してもそういうと思います
+[2008/11/24 23:46:27] Akihisa Kogaの発言: そんなんゆうたらきりがないけどね
+[2008/11/24 23:46:28] Akihisa Kogaの発言: もちろん
+[2008/11/24 23:47:01] yoshioka94の発言: 10x10, 12x12で回してみます。
+[2008/11/24 23:47:19] yoshioka94の発言: まだ見当がつかないですが。
+[2008/11/24 23:47:22] Akihisa Kogaの発言: 一番ベストなのは
+[2008/11/24 23:47:40] Akihisa Kogaの発言: 10x10, 12x12 を計算して、Metal, NMIの解を見つけて
+[2008/11/24 23:47:50] Akihisa Kogaの発言: Metalがより安定であることを示すことだと思います。
+[2008/11/24 23:50:14] Akihisa Kogaの発言: 知っているかもしれませんが
+[2008/11/24 23:50:26] Akihisa Kogaの発言: 11/29,30, 12/1 は東京にいて
+[2008/11/24 23:50:30] Akihisa Kogaの発言: 12/2 は京都にいます
+[2008/11/24 23:51:06] yoshioka94の発言: そうですか。では、12/2に京都に行きます。
+[2008/11/24 23:51:10] Akihisa Kogaの発言: ちなみに
+[2008/11/24 23:51:25] Akihisa Kogaの発言: 11/30の東京で今田先生の目の前で
+[2008/11/24 23:51:31] Akihisa Kogaの発言: 今の話をすこしするつもりです
+[2008/11/24 23:51:43] Akihisa Kogaの発言: 今田研のセミナーではなく
+[2008/11/24 23:52:01] Akihisa Kogaの発言: 研究会の発表です
+[2008/11/24 23:52:29] Akihisa Kogaの発言: あまり刺激しないようにしゃべりますので
+[2008/11/24 23:52:41] Akihisa Kogaの発言: かなり抑え気味でもうしわけありません
+[2008/11/24 23:53:17] yoshioka94の発言: それは、全然いいです。
+[2008/11/24 23:54:02] Akihisa Kogaの発言: その日の夜の懇親会が怖いです
+[2008/11/24 23:54:15] yoshioka94の発言: 8×8、U=6　で自分の計算が金属的で今田研のが絶縁体的なのが不思議です。
+[2008/11/24 23:54:24] Akihisa Kogaの発言: そうね
+[2008/11/24 23:54:32] Akihisa Kogaの発言: そういう風に伝えておきます
+[2008/11/24 23:54:42] Akihisa Kogaの発言: エネルギーの値とかは
+[2008/11/24 23:54:44] Akihisa Kogaの発言: 今田研と
+[2008/11/24 23:54:49] Akihisa Kogaの発言: つき合わせたりしましたか?
+[2008/11/24 23:55:05] Akihisa Kogaの発言: というか今田研でのセミナーの予定はありませんか?
+[2008/11/24 23:55:18] yoshioka94の発言: はい。6×6は同じでした。
+[2008/11/24 23:56:12] yoshioka94の発言: セミナー予定は、はっきり決まってません。
+[2008/11/24 23:56:18] Akihisa Kogaの発言: 8x8は?
+[2008/11/24 23:56:24] yoshioka94の発言: 時間ある時に、話してみたいな。
+[2008/11/24 23:56:25] Akihisa Kogaの発言: セミナーは一応行く予定なのね
+[2008/11/24 23:56:53] Akihisa Kogaの発言: そうか。川上先生はどのように言っていますか
+[2008/11/24 23:57:13] yoshioka94の発言: コメントに、6×6以外のエネルギーは乗せてないです。
+[2008/11/24 23:57:57] yoshioka94の発言: セミナーの件。川上先生は嫌やったらいかんでいいよと言ってました。
+[2008/11/24 23:58:46] yoshioka94の発言: 自分としては、行ったほうが良いのかどうか迷い中です。
+[2008/11/24 23:58:46] Akihisa Kogaの発言: そっか。気が向いたらって感じね
+[2008/11/24 23:58:57] Akihisa Kogaの発言: たしかに
+[2008/11/24 23:59:32] Akihisa Kogaの発言: むずかしいね
+[2008/11/24 23:59:50] Akihisa Kogaの発言: 8x8のエネルギーのデータがあれば、すぐにわかるのにね
+[2008/11/25 0:00:28] yoshioka94の発言: そうですね。
+[2008/11/25 0:00:36] Akihisa Kogaの発言: ま、近くではないので
+[2008/11/25 0:01:00] Akihisa Kogaの発言: 8x8, 10x10, 12x12 のNMI, Metalのデータがあれば
+[2008/11/25 0:01:09] Akihisa Kogaの発言: 結果が完璧にわかると思いますが、
+[2008/11/25 0:01:26] Akihisa Kogaの発言: どうなるか読めない感じですか?
+[2008/11/25 0:01:37] Akihisa Kogaの発言: 吉岡さんの計算の経験からは
+[2008/11/25 0:01:40] Akihisa Kogaの発言: どうなっているとおもいますか
+[2008/11/25 0:02:07] yoshioka94の発言: サイズ8かけr
+[2008/11/25 0:02:26] yoshioka94の発言: サイズ8×8にした時点で、NMIの
+[2008/11/25 0:02:44] yoshioka94の発言: 解が出てこなそうです。
+[2008/11/25 0:03:02] yoshioka94の発言: Uint＝Uでも金属になってしまったんで。
+[2008/11/25 0:03:11] Akihisa Kogaの発言: そうか
+[2008/11/25 0:03:13] Akihisa Kogaの発言: じゃあ
+[2008/11/25 0:03:14] yoshioka94の発言: HFでは絶縁体。
+[2008/11/25 0:03:18] Akihisa Kogaの発言: 8x8で
+[2008/11/25 0:03:22] Akihisa Kogaの発言: Uをふって
+[2008/11/25 0:03:30] Akihisa Kogaの発言: 一次転移のとびが
+[2008/11/25 0:03:35] Akihisa Kogaの発言: まだ大きく残るって
+[2008/11/25 0:03:40] Akihisa Kogaの発言: いう方が簡単なのかな
+[2008/11/25 0:04:27] yoshioka94の発言: おそらく。そちらの方が簡単ですね。
+[2008/11/25 0:06:34] Akihisa Kogaの発言: コメントには
+[2008/11/25 0:06:37] Akihisa Kogaの発言: 8x8の転移は
+[2008/11/25 0:06:49] Akihisa Kogaの発言: かなりちいさなUになると書いてあったので
+[2008/11/25 0:06:55] Akihisa Kogaの発言: それをみるのもいいかもしれませんが
+[2008/11/25 0:07:20] Akihisa Kogaの発言: 物理的にはあまり意味がないことかもしれません。pirgの精度についての議論になるので
+[2008/11/25 0:07:30] Akihisa Kogaの発言: ただ、
+[2008/11/25 0:07:45] Akihisa Kogaの発言: 今書いているPRLの返事次第ですが、
+[2008/11/25 0:07:56] Akihisa Kogaの発言: サイズ依存性についてはコメントされる可能性があると思いまする
+[2008/11/25 0:08:07] Akihisa Kogaの発言: なので、返事が来る前に
+[2008/11/25 0:08:23] Akihisa Kogaの発言: ある程度の結果があったほうがいいと思います。
+[2008/11/25 0:08:57] yoshioka94の発言: そうですね。計算しておきます。また、相談すると思います。
+[2008/11/25 0:09:02] Akihisa Kogaの発言: たとえば
+[2008/11/25 0:09:14] Akihisa Kogaの発言: 一つのシナリオとしては
+[2008/11/25 0:09:23] Akihisa Kogaの発言: 8x8のDk
+[2008/11/25 0:09:35] Akihisa Kogaの発言: 二重占有率のデータも一緒に乗せて
+[2008/11/25 0:09:46] Akihisa Kogaの発言: サイズ依存性があまりなかった
+[2008/11/25 0:10:00] Akihisa Kogaの発言: st
+[2008/11/25 0:10:01] Akihisa Kogaの発言: とか
+[2008/11/25 0:10:27] yoshioka94の発言: それが一番やりやすそうです。
+[2008/11/25 0:11:06] Akihisa Kogaの発言: 10x10, 12x12も計算(U=6のみ)して、二重占有率のサイズ依存性はあまりなかった
+[2008/11/25 0:11:07] Akihisa Kogaの発言: かつ
+[2008/11/25 0:11:25] Akihisa Kogaの発言: Momentum distribution function に飛びがみられた
+[2008/11/25 0:11:39] Akihisa Kogaの発言: この二つのうち
+[2008/11/25 0:11:45] Akihisa Kogaの発言: 一つ以上あれば
+[2008/11/25 0:11:59] Akihisa Kogaの発言: とりあえず
+[2008/11/25 0:12:04] Akihisa Kogaの発言: サイズ効果については
+[2008/11/25 0:12:07] Akihisa Kogaの発言: 言えると思います。
+[2008/11/25 0:12:30] Akihisa Kogaの発言: ある程度ですが
+[2008/11/25 0:14:05] Akihisa Kogaの発言: 12x12の計算ですが、
+[2008/11/25 0:14:25] Akihisa Kogaの発言: 動かせそうですか?
+[2008/11/25 0:14:34] Akihisa Kogaの発言: 京都の計算機はある程度あいているので
+[2008/11/25 0:15:10] Akihisa Kogaの発言: もし、計算機が足らないようだったら、かわりに動かしますよ
+[2008/11/25 0:15:11] yoshioka94の発言: メモリは大丈夫ですが、計算時間ですね。
+[2008/11/25 0:15:28] yoshioka94の発言: わかりました。その時はお願いします。
+[2008/11/25 0:17:12] Akihisa Kogaの発言: 前にもらったプログラムで、すこしパラメータを変えるだけで
+[2008/11/25 0:17:16] Akihisa Kogaの発言: うごかすことができますか
+[2008/11/25 0:19:11] yoshioka94の発言: subroutine shift にサイトの情報を入れるのと
+[2008/11/25 0:19:47] yoshioka94の発言: subroutine engv に運動量分布の波数を入れる必要があります。
+[2008/11/25 0:20:36] Akihisa Kogaの発言: そうか
+[2008/11/25 0:20:38] Akihisa Kogaの発言: すぐには
+[2008/11/25 0:20:44] Akihisa Kogaの発言: わからなさそうなので
+[2008/11/25 0:20:56] Akihisa Kogaの発言: 触らないようにしておきます
+[2008/11/25 0:20:58] Akihisa Kogaの発言: もし
+[2008/11/25 0:21:03] Akihisa Kogaの発言: 12x12
+[2008/11/25 0:21:14] Akihisa Kogaの発言: をどこかで
+[2008/11/25 0:21:17] Akihisa Kogaの発言: 動かす時には
+[2008/11/25 0:21:18] Akihisa Kogaの発言: 行ってください
+[2008/11/25 0:21:40] Akihisa Kogaの発言: 夜遅くまでごくろうさまです
+[2008/11/25 0:21:43] yoshioka94の発言: わかりました。プログラムができたら連絡します。
+[2008/11/25 0:21:59] Akihisa Kogaの発言: よろしくお願いします
+[2008/12/04 16:10:34] Akihisa Kogaの発言: 吉岡さん
+[2008/12/04 16:10:35] Akihisa Kogaの発言: 古賀です
+[2008/12/04 16:10:43] Akihisa Kogaの発言: 一つ質問なのですが、
+[2008/12/04 16:10:51] Akihisa Kogaの発言: 金属状態がさらに安定化されることは
+[2008/12/04 16:10:52] Akihisa Kogaの発言: わかりましたが
+[2008/12/04 16:11:01] Akihisa Kogaの発言: それは、チェッカーボードの時もそうなるのでは?
+[2008/12/04 16:11:09] Akihisa Kogaの発言: 昔の論文をみなおしてみると
+[2008/12/04 16:11:18] Akihisa Kogaの発言: レベルクロスがないようにみえるので
+[2008/12/04 16:11:23] Akihisa Kogaの発言: もしかしたら危険ですか?
+[2008/12/04 17:35:12] yoshioka94の発言: そうです。はっきりとエネルギーのクロスは出せていませんでした。
+[2008/12/04 17:35:43] yoshioka94の発言: たぶん、Uｃが大きい方にずれると思います。
+[2008/12/04 17:36:21] Akihisa Kogaの発言: 計算しておいた方がいいのでは?
+[2008/12/04 17:36:47] yoshioka94の発言: そうですね。
+[2008/12/04 17:37:37] Akihisa Kogaの発言: Short note として追加してもいいかもね
+[2008/12/04 17:37:50] Akihisa Kogaの発言: もしくは
+[2008/12/04 17:37:57] Akihisa Kogaの発言: 訂正の Errortum?
+[2008/12/04 17:37:58] Akihisa Kogaの発言: だっけ
+[2008/12/04 17:39:19] yoshioka94の発言: 訂正の投稿について知りませんでした。確認しておきます。
+[2008/12/04 17:39:29] Akihisa Kogaの発言: なんにせよ
+[2008/12/04 17:39:42] Akihisa Kogaの発言: チェッカーボードの時にも同じことになっていたかどうか
+[2008/12/04 17:39:45] Akihisa Kogaの発言: 調べておくと
+[2008/12/04 17:39:54] Akihisa Kogaの発言: あとあと面倒が少なくて済むと思います
+[2008/12/04 17:41:13] yoshioka94の発言: 外挿の図は同じ感じです。有限系でぎりぎりエネルギーのU依存性のラインが繋がる感じでした。
+[2008/12/04 17:41:41] Akihisa Kogaの発言: たしか
+[2008/12/04 17:41:46] Akihisa Kogaの発言: 一次転移だったから
+[2008/12/04 17:41:49] Akihisa Kogaの発言: 基本的には
+[2008/12/04 17:41:57] Akihisa Kogaの発言: レベルクロスがあるはずよね
+[2008/12/04 17:42:21] yoshioka94の発言: そうですね。出しておきます。
+[2008/12/04 17:42:30] Akihisa Kogaの発言: よろしくお願いします。
+[2008/12/04 17:42:36] Akihisa Kogaの発言: 他で発表するときなどには
+[2008/12/04 17:42:40] Akihisa Kogaの発言: 必ずいると思います
+[2008/12/04 17:42:44] Akihisa Kogaの発言: では
+[2008/12/04 17:43:01] Akihisa Kogaの発言: 今回の論文がすんなり通ることを祈ってます
+[2008/12/04 17:43:07] yoshioka94の発言: わかりました。ありがとうございます。
+[2008/12/12 20:13:08] Akihisa Kogaの発言: 吉岡さん
+[2008/12/12 20:13:21] Akihisa Kogaの発言: 先日送ってもらったPIRGのプログラムですが、
+[2008/12/12 20:13:31] Akihisa Kogaの発言: L=100で物理量まで計算して
+[2008/12/12 20:13:43] Akihisa Kogaの発言: 3分30秒ははやい?
+[2008/12/12 20:13:56] Akihisa Kogaの発言: あんましかわらない?
+[2008/12/12 20:15:21] Akihisa Kogaの発言:  start_dim           1
+ LOCAL delta=  8.333333333333333E-005
+ START eng  -23.0369424617127              100
+ WORK space   2600.00000000000     
+ 
+ U/t=   6.00000000000000     
+ dim. =         100
+ delta=  8.333333333333333E-002
+ independent RG
+           1  -23.9139677210498               96         100
+           2  -24.0132240881398               57         100
+           3  -24.0399512165889               29         100
+           4  -24.0680579297939               19         100
+           5  -24.0940297090982               25         100
+           6  -24.1021259326109               16         100
+           7  -24.1168682911137               15         100
+           8  -24.1301513495278               17         100
+           9  -24.1373337736537                8         100
+ change RG mode
+          10  -24.4141310365295               11         100
+          11  -24.4970944790576                6         100
+          12  -24.5449180650752                5         100
+ converged
+ +QP ON    TOTAL S=           0
+ dimension=         100 eng=  -25.1719718482435     
+ 
+ total spin
+ -1.059280193972381E-013
+ stop dim.=         100
+ 
+ 
+
+real    3m27.214s
+user    13m26.506s
+sys     0m14.213s
+[2008/12/12 20:32:01] yoshioka94の発言: 比べてみます。
+[2008/12/12 22:07:12] yoshioka94の発言: 最初に古賀さんに送ったプログラム
+[2008/12/12 22:07:16] yoshioka94の発言: real 2121.70
+user 2118.98
+sys 0.21
+[2008/12/12 22:07:28] yoshioka94の発言: 古賀さんから受け取ったプログラム
+[2008/12/12 22:07:37] yoshioka94の発言: real 1426.76
+user 1426.40
+sys 0.22
+[2008/12/12 22:08:00] yoshioka94の発言: その後自分で直したプログラム
+[2008/12/12 22:08:11] yoshioka94の発言: real 542.25
+user 539.40
+sys 0.18
+[2008/12/12 22:08:21] yoshioka94の発言: です。
+[2008/12/12 22:09:18] yoshioka94の発言: 全てL100の計算ですが、だいぶ古賀さんが計算されたものが速いです。
+[2008/12/12 22:11:27] yoshioka94の発言: これは計算機の違いが原因ですかね？
+[2008/12/12 22:54:23] Akihisa Kogaの発言: はい
+[2008/12/12 22:54:29] Akihisa Kogaの発言: 並列化をかけたのと
+[2008/12/12 22:54:30] Akihisa Kogaの発言: あと、
+[2008/12/12 22:54:38] Akihisa Kogaの発言: 物理量の計算のところに
+[2008/12/12 22:54:47] Akihisa Kogaの発言: 三重積があったのを
+[2008/12/12 22:54:54] Akihisa Kogaの発言: 解消しました
+[2008/12/12 22:55:04] Akihisa Kogaの発言: これで物理量の計算は格段に速くなります
+[2008/12/12 22:55:10] Akihisa Kogaの発言: 結果は同じですか?
+[2008/12/12 22:55:33] yoshioka94の発言: はい。結果は同じでした。
+[2008/12/12 22:55:42] Akihisa Kogaの発言: 吉岡さんが直したのは
+[2008/12/12 22:56:00] Akihisa Kogaの発言: 物理量の三重積?
+[2008/12/12 22:56:04] Akihisa Kogaの発言: ですか
+[2008/12/12 22:56:18] yoshioka94の発言: はい。そうです。
+[2008/12/12 22:56:24] Akihisa Kogaの発言: じゃあ今は同じ
+[2008/12/12 22:56:29] Akihisa Kogaの発言: プログラムだと思います
+[2008/12/12 22:56:41] Akihisa Kogaの発言: openmp という並列化は
+[2008/12/12 22:56:45] Akihisa Kogaの発言: 簡単にできるので
+[2008/12/12 22:56:51] Akihisa Kogaの発言: それで試してみたのです
+[2008/12/12 22:57:11] yoshioka94の発言: わかりました。ちなみに、どの部分で並列されたのですか？
+[2008/12/12 22:57:17] Akihisa Kogaの発言: ちょっとまってね
+[2008/12/12 22:57:35] Akihisa Kogaの発言: そちらの計ったマシンはなんですか?
+[2008/12/12 22:58:04] Akihisa Kogaの発言: こちらは　Core2 quad 9550 2.8Ghz
+[2008/12/12 22:58:06] Akihisa Kogaの発言: です。
+[2008/12/12 22:58:12] Akihisa Kogaの発言: cat /proc/cpuinfo
+[2008/12/12 22:58:14] Akihisa Kogaの発言: でみれます
+[2008/12/12 23:00:49] Akihisa Kogaの発言: ちなみに並列化しても、めちゃめちゃ速くなるわけではなく、2倍くらいね
+[2008/12/12 23:01:56] yoshioka94の発言: Intel(R) Core(TM)2 CPU          6600  @ 2.40GHz　です。
+[2008/12/12 23:02:12] Akihisa Kogaの発言: たぶん
+[2008/12/12 23:02:14] Akihisa Kogaの発言: Duo ね
+[2008/12/12 23:02:22] Akihisa Kogaの発言: たぶん Duo だったら
+[2008/12/12 23:02:25] yoshioka94の発言: そうです。
+[2008/12/12 23:02:34] Akihisa Kogaの発言: 並列化しても、あまりメリットがないとおもいます
+[2008/12/12 23:02:47] Akihisa Kogaの発言: openmp のオプションをつけるだけで
+[2008/12/12 23:02:54] Akihisa Kogaの発言: かなり遅くなるので
+[2008/12/12 23:03:14] Akihisa Kogaの発言: どこかの計算機センターの
+[2008/12/12 23:03:18] Akihisa Kogaの発言: smp型
+[2008/12/12 23:03:23] Akihisa Kogaの発言: の並列計算機で
+[2008/12/12 23:03:28] Akihisa Kogaの発言: 試すといいかも
+[2008/12/12 23:03:32] Akihisa Kogaの発言: ちなみに
+[2008/12/12 23:03:37] Akihisa Kogaの発言: 京都のマシンは
+[2008/12/12 23:03:40] Akihisa Kogaの発言: Quad
+[2008/12/12 23:03:42] Akihisa Kogaの発言: なので
+[2008/12/12 23:03:48] Akihisa Kogaの発言: 4cpuを使っています。
+[2008/12/12 23:05:07] Akihisa Koga このチャットの参加者にファイル"PIRG2-omp.f"を送信しました
+
+[2008/12/12 23:05:18] Akihisa Kogaの発言: OPENMPを使ったプログラムです
+[2008/12/12 23:05:29] Akihisa Kogaの発言: そのまま、コンパイルしても問題ありません
+[2008/12/12 23:05:36] Akihisa Kogaの発言: ifort -openmp
+[2008/12/12 23:05:40] Akihisa Kogaの発言: とコンパイルすると
+[2008/12/12 23:05:52] Akihisa Kogaの発言: 並列化したプログラムができます。
+[2008/12/12 23:06:03] Akihisa Kogaの発言: 環境変数 OMP_NUM_THREADS=2
+[2008/12/12 23:06:11] Akihisa Kogaの発言: KMP_ALL_THREADS=2
+[2008/12/12 23:06:13] Akihisa Kogaの発言: として
+[2008/12/12 23:06:16] Akihisa Kogaの発言: 動かすと
+[2008/12/12 23:06:26] Akihisa Kogaの発言: 200%で動くことが確認できます
+[2008/12/12 23:06:42] Akihisa Kogaの発言: 言っている意味わかりますか?
+[2008/12/12 23:07:26] yoshioka94の発言: わからないです。
+[2008/12/12 23:07:37] Akihisa Kogaの発言: 阪大の計算機に
+[2008/12/12 23:07:41] Akihisa Kogaの発言: quad
+[2008/12/12 23:07:43] Akihisa Kogaの発言: はありますか
+[2008/12/12 23:08:35] yoshioka94の発言: duoしかないです。
+[2008/12/12 23:08:48] Akihisa Kogaの発言: 一度試してみますか
+[2008/12/12 23:08:51] Akihisa Kogaの発言: まず
+[2008/12/12 23:08:57] Akihisa Kogaの発言: linuxで
+[2008/12/12 23:09:07] Akihisa Kogaの発言: export OMP_NUM_THREADS=2
+[2008/12/12 23:09:16] Akihisa Kogaの発言: export KMP_ALL_THREADS=2
+[2008/12/12 23:09:23] Akihisa Kogaの発言: とうつ
+[2008/12/12 23:09:39] Akihisa Kogaの発言: 何も変化しません
+[2008/12/12 23:09:41] Akihisa Kogaの発言: 次に
+[2008/12/12 23:10:09] Akihisa Kogaの発言: ifort -openmp -O3 -xT PIRG2-openmp.f
+[2008/12/12 23:10:14] Akihisa Kogaの発言: としてコンパイル
+[2008/12/12 23:10:21] Akihisa Kogaの発言: ./a.out < wavefunction
+[2008/12/12 23:10:42] Akihisa Kogaの発言: もしかしたら
+[2008/12/12 23:10:50] Akihisa Kogaの発言: segmentation fault
+[2008/12/12 23:10:54] Akihisa Kogaの発言: が出るかもしれませんが
+[2008/12/12 23:17:12] yoshioka94の発言: segmentation fault　が出ました。
+[2008/12/12 23:17:50] Akihisa Kogaの発言: やっぱり
+[2008/12/12 23:17:57] Akihisa Kogaの発言: なぜかわからないのよね
+[2008/12/12 23:18:10] Akihisa Kogaの発言: -openmp
+[2008/12/12 23:18:12] Akihisa Kogaの発言: を消して
+[2008/12/12 23:18:16] Akihisa Kogaの発言: 動かしてみてください
+[2008/12/12 23:18:25] Akihisa Kogaの発言: ベクトル化だけでも
+[2008/12/12 23:18:30] Akihisa Kogaの発言: 結構はやいかもよ
+[2008/12/12 23:33:06] yoshioka94の発言: いまベクトル化した計算が終わりました。
+[2008/12/12 23:33:14] yoshioka94の発言: real 546.67
+user 541.02
+sys 0.18
+[2008/12/12 23:33:21] Akihisa Kogaの発言: 変わらないね
+[2008/12/12 23:33:39] yoshioka94の発言: そうですね。残念ながら。
+[2008/12/12 23:33:45] Akihisa Kogaの発言: たぶん
+[2008/12/12 23:33:49] Akihisa Kogaの発言: Quadにすると
+[2008/12/12 23:33:57] Akihisa Kogaの発言: すこし早くなる感じだとおもいます
+[2008/12/12 23:34:05] Akihisa Kogaの発言: 並列化は
+[2008/12/12 23:34:14] Akihisa Kogaの発言: そんなにメリットがないようです
+[2008/12/12 23:34:29] Akihisa Kogaの発言: でも
+[2008/12/12 23:34:45] Akihisa Kogaの発言: ベクトル化したのに早くならなかったのはなぜかな
+[2008/12/12 23:34:51] Akihisa Kogaの発言: 200%とでてましたか
+[2008/12/12 23:35:57] yoshioka94の発言: どこに表示されますか？
+[2008/12/12 23:36:13] Akihisa Kogaの発言: 動かしているときに
+[2008/12/12 23:36:24] Akihisa Kogaの発言: 他のWIndowをたちあげて
+[2008/12/12 23:36:25] Akihisa Kogaの発言: TOP
+[2008/12/12 23:36:28] Akihisa Kogaの発言: top
+[2008/12/12 23:36:29] Akihisa Kogaの発言: でみる
+[2008/12/12 23:36:33] Akihisa Kogaの発言: もしくは
+[2008/12/12 23:36:42] yoshioka94の発言: やってみます。
+[2008/12/12 23:36:43] Akihisa Kogaの発言: 研究室のホームページに
+[2008/12/12 23:36:47] Akihisa Kogaの発言: log がのってないかなぁ
+[2008/12/12 23:40:38] yoshioka94の発言: 一方しか使ってませんでした。環境変数の設定をやりなおしてみます。
+[2008/12/12 23:46:53] yoshioka94の発言: やはり、一方のcpuしか使ってないみたいです。
+[2008/12/12 23:47:21] Akihisa Kogaの発言: そうか
+[2008/12/12 23:47:28] Akihisa Kogaの発言: ちょっとこちらでも
+[2008/12/12 23:47:30] Akihisa Kogaの発言: みてみます
+[2008/12/12 23:47:50] yoshioka94の発言: はい。お願いします。
+[2008/12/12 23:49:12] Akihisa Kogaの発言: よしおかさんのプログラムもらえますか
+[2008/12/12 23:49:30] Akihisa Kogaの発言: 最新バージョン
+[2008/12/12 23:49:38] yoshioka94の発言: はい。いいですよ。
+[2008/12/12 23:49:47] yoshioka94の発言: メールで送ります。
+[2008/12/12 23:56:40] yoshioka94の発言: いまおくりました。
+[2008/12/12 23:57:09] yoshioka94の発言: PIRG
+[2008/12/12 23:57:10] Akihisa Kogaの発言: 前と同じ波動関数を使って動かせますか
+[2008/12/12 23:57:18] yoshioka94の発言: はい。
+[2008/12/12 23:57:24] Akihisa Kogaの発言: 了解しました
+[2008/12/12 23:57:32] Akihisa Kogaの発言: 並列化の結果などを
+[2008/12/12 23:57:38] Akihisa Kogaの発言: 後でお知らせします。
+[2008/12/12 23:57:59] yoshioka94の発言: ありがとうございます。
+[2008/12/12 23:58:06] Akihisa Kogaの発言: ちなみに
+[2008/12/12 23:58:13] Akihisa Kogaの発言: メール届いてませんぜ
+[2008/12/12 23:58:29] Akihisa Kogaの発言: もしあれだったら
+[2008/12/12 23:58:36] Akihisa Kogaの発言: スカイプでくださいな
+[2008/12/12 23:59:21] yoshioka94 このチャットの参加者にファイル"PIRG.f"を送信しました
+
+[2008/12/12 23:59:42] Akihisa Kogaの発言: ありがとう
+[2008/12/12 23:59:47] Akihisa Kogaの発言: 調べておきます
+[0:00:01] yoshioka94の発言: お願いします。
+[0:00:03] Akihisa Kogaの発言: メールきました
+[0:00:11] Akihisa Kogaの発言: 消えてはいませんでした
+[0:01:12] yoshioka94の発言: そうですか。ちなみに、今お送りしたのはメールのプログラムを一つにまとめただけです。
+[0:11:12] Akihisa Kogaの発言: そのまままわすと
+[0:11:25] Akihisa Kogaの発言: 5m8.182s
+[0:11:40] Akihisa Kogaの発言: real    5m8.182s
+user    5m7.363s
+sys     0m0.096s
+[0:16:20] Akihisa Kogaの発言: vector化 400%
+[0:16:29] Akihisa Kogaの発言: real    5m8.337s
+user    16m8.097s
+sys     0m25.566s
+[0:16:34] Akihisa Kogaの発言: 全く意味がない
+[1:19:34] Akihisa Kogaの発言: Openmp 400%
+[1:19:53] Akihisa Kogaの発言: real  3m7.595suser  12m17.254s
+> sys   0m11.133s
+[1:20:05] Akihisa Kogaの発言: real  3m7.595s
+user  12m17.254s
+sys   0m11.133s
+[1:24:56] yoshioka94の発言: ありがとうございます。
+[1:25:07] Akihisa Kogaの発言: こんなかんじでした
+[1:25:21] Akihisa Kogaの発言: 一応プログラムを送り返しますね
+[1:25:34] yoshioka94の発言: はい。お願いします。
+[1:26:00] Akihisa Koga このチャットの参加者にファイル"PIRG2.f"を送信しました
+
+[1:26:14] Akihisa Kogaの発言: プログラム中にある
+[1:26:18] Akihisa Kogaの発言: !$omp parallel do
+[1:26:22] Akihisa Kogaの発言: のところで
+[1:26:25] Akihisa Kogaの発言: 並列化
+[1:26:29] Akihisa Kogaの発言: を行っています
+[1:26:47] Akihisa Kogaの発言: ループが長くないと意味がないので
+[1:26:55] Akihisa Kogaの発言: 三重ループくらいをめどに
+[1:26:59] Akihisa Kogaの発言: 並列化しています
+[1:27:13] Akihisa Kogaの発言: でも
+[1:27:25] Akihisa Kogaの発言: 4つのcpuを使っても3/5にしかならないなんて
+[1:27:35] Akihisa Kogaの発言: やっぱり、並列化に向いていないのかもね
+[1:28:18] yoshioka94の発言: わかりました。本当にありがとうございます。
+[1:28:27] Akihisa Kogaの発言: ちなみに
+[1:28:34] Akihisa Kogaの発言: Lが大きい時には
+[1:28:41] Akihisa Kogaの発言: もっときくのではないかと期待します
+[1:29:25] Akihisa Kogaの発言: L=500
+[1:29:26] Akihisa Kogaの発言: は
+[1:29:30] Akihisa Kogaの発言: どのくらい時間かかりましたか
+[1:29:32] Akihisa Kogaの発言: だいたい
+[1:30:01] yoshioka94の発言: 以前のプログラムで１日かかってました。
+[1:30:33] Akihisa Kogaの発言: そんなには半日くらいになればいいけど
+[1:32:42] yoshioka94の発言: 今のプログラムでは速くなってるの思うので、確認しときます。
+[1:32:48] Akihisa Kogaの発言: わたしも
+[1:32:51] Akihisa Kogaの発言: 流しておきます
+[1:32:53] Akihisa Kogaの発言: ではでは
+[1:33:09] yoshioka94の発言: ありがとうございました。
